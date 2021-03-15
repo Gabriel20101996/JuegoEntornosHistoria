@@ -70,10 +70,10 @@ public class JuegoHistoriaOpciones {
 
 		if (eleccion1 == 1){
 
-			
+			opcion3();
 		} else {
 
-			
+			opcion4();
 		}
 
 	}
