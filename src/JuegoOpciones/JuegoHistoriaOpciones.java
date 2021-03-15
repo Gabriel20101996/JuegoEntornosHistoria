@@ -157,6 +157,6 @@ public class JuegoHistoriaOpciones {
 			} else {
 				
 			}
-			
+			//prueba
 		}
 }
