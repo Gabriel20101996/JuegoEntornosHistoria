@@ -75,7 +75,7 @@ public class JuegoHistoriaOpciones {
 			opcion3();
 		} else {
 
-			opcion4();
+
 		}
 
 	}
