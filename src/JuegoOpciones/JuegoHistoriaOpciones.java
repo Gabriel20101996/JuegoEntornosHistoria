@@ -41,5 +41,5 @@ public class JuegoHistoriaOpciones {
 			}
 			
 		}
-
+// prueba Sergio Gil
 }
