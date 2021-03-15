@@ -72,8 +72,8 @@ public class JuegoHistoriaOpciones {
 			System.out.println("Esa misma noche, Aiden se consigue fugar del orfanato sin mirar atrás, perdiéndose en los entresijos del bosque.");
 			System.out.println("");
 			System.out.println("Decides:");
-			System.out.println("1.-Salir al bosque a buscar a Aiden.");
-			System.out.println("2.-Esperar en el orfanato a que vuelva.");
+			System.out.println("1.- Salir al bosque a buscar a Aiden.");
+			System.out.println("2.- Esperar en el orfanato a que vuelva.");
 			
 			int eleccionBosque=scanner.nextInt();
 			
